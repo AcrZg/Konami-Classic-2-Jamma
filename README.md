@@ -17,7 +17,7 @@ NOTE: Some PCBs doesn´t need the -5V rail, please check and use the on board ju
 
 ![IMG_6530](https://github.com/user-attachments/assets/ff20444f-f7b1-4827-83ae-582f4ea8d062)
 
-Currently Tested with Super Cobra
+Currently Tested with Super Cobra and circus charlie boards
 
 <img width="400" height="400" alt="ndkg295nfgiwbih91cbq_400x400" src="https://github.com/user-attachments/assets/c70554dc-8b60-4877-8c9a-15c2b0c63b14" />
 
